@@ -1,0 +1,66 @@
+#divPrincipal {
+    margin-left: 2%;
+    margin-right: 2%;
+    height: auto;
+    margin-top: 1rem; 
+    margin-bottom: 1rem;  
+    /* border: solid black 1px; */
+    background-color: blue;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+    color: white;
+}
+
+.produtos {
+    display: grid;
+    grid-template-rows: repeat(auto, 1fr);
+    height: fit-content;
+    border-radius: 5px;
+}
+
+.produto-card {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    max-height: 12.5rem;
+    border: solid black 1px;
+    background-color: #F4F4F4;
+    text-align: center;
+} 
+
+.produto-card p {
+    margin-top: 21%;
+}
+
+.imagemProduto {
+    height: 11.875rem;
+    width: 60%;
+    object-fit: cover;
+    margin-left: 0.5;
+    border: solid #c9c9c9 1px;
+}
+
+#totalCarrinho {
+    position: fixed;
+    margin-left: 81.1%;
+    width: 14.9%;
+    height: 3em;
+    background-color: yellow;
+}
+
+#totalCarrinho > h2 {
+    margin-top: 7px;
+    text-align: center;
+}
+
+.produto-card input {
+    width: 2.5rem;
+    height: 1.875rem;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+}
+

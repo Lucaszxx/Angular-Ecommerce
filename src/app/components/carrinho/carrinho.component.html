@@ -1,0 +1,24 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+
+
+<div id="divPrincipal">
+    <div id="totalCarrinho">
+        <h2>Total: R${{totalCarrinho}}</h2>
+    </div>  
+    <h1>Carrinho</h1>
+    <div *ngFor="let produto of items" class="produtos">
+        <div class="produto-card">
+            <img src="{{produto.image}}" class="imagemProduto">
+           <p><strong>Produto</strong> <br>{{produto.name}}</p>
+           <p><strong>Preço Unitário</strong> <br>R${{produto.price}}</p>
+           <p>
+            <strong>Quantidade <br>
+                <input type="number" min="1" placeholder="1" (input)="quantidade($event)">
+            </strong>
+            </p>
+            <p>Total <br>R{{produto.price * quantidadeDesejada | currency}}</p>
+        </div>
+    </div>
+</div>

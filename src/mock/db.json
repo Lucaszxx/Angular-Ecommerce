@@ -1,0 +1,161 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Camiseta Preta",
+            "size": "M",
+            "price": 14.95, 
+            "image": "https://a-static.mlcdn.com.br/1500x1500/camisas-kit-c-5-camisetas-camisas-masculinas-atacado-tlt/tltmodas/9912234751/325b394242a74172aa2bbf439319fa6b.jpeg",
+            "group": "tshirts"
+        },
+        {
+            "id": 2,
+            "name": "Camiseta Fantasma Rosa",
+            "size": "P",
+            "price": 18.95,
+            "image": "https://queissocamarada.com/loja/wp-content/uploads/2021/10/camiseta-de-esquerda-fantasma-comunista-rosa.jpg",
+            "group": "tshirts"
+        },
+        {
+            "id": 3,
+            "name": "Camiseta Hora de Aventura",
+            "size": "G",
+            "price": 10.00,
+            "image": "https://static3.tcdn.com.br/img/img_prod/906555/camiseta_hora_de_aventura_camiseta_favorita_princesa_jujuba_449_1_2f5f657678185c5954e759e40360b820.jpg",
+            "group": "tshirts"
+        },
+        {
+            "id": 4,
+            "name": "Camiseta RedBull",
+            "size": "M",
+            "price": 25.00,
+            "image": "https://img.elo7.com.br/product/zoom/37B2AD1/camisa-camiseta-f1-redbull-plus-size-redbull.jpg",
+            "group": "tshirts"
+        },
+        {
+            "id": 5,
+            "name": "Camiseta FuelTech",
+            "size": "P",
+            "price": 40.00,
+            "image": "https://cdn.shopify.com/s/files/1/0013/0698/4500/products/CAMISETA-FUELTECH-F355TURBO-ANDERSON-DICK_1024x1024.jpg?v=1667506475",
+            "group": "tshirts"
+        },
+        {
+            "id": 6,
+            "name": "Camiseta Vinho",
+            "size": "M",
+            "price": 35.00,
+            "image": "https://img.ltwebstatic.com/images2_pi/2019/08/12/15656037222215085874_thumbnail_900x1199.webp",
+            "group": "tshirts"
+        },
+        {
+            "id": 7,
+            "name": "Calça Cargo",
+            "size": "G",
+            "price": 50.00,
+            "image": "https://img.ltwebstatic.com/images3_pi/2022/05/22/1653191780475c093af5940753b096412cdc7f53c3_thumbnail_900x.webp",
+            "group": "legs"
+        },
+        {
+            "id": 8,
+            "name": "Calça Jeans",
+            "size": "M",
+            "price": 40.00,
+            "image": "https://damyller.vteximg.com.br/arquivos/ids/589479-980-1470/Calca-Jeans-Slouchy-Cropped-Cintura-Alta-Detalhe-Still--.jpg?v=637430211171230000",
+            "group": "legs"
+        },
+        {
+            "id": 9,
+            "name": "Calça Jogger Feminina",
+            "size": "M",
+            "price": 80.00,
+            "image": "https://images.tcdn.com.br/img/img_prod/763583/calca_jogger_feminina_9391_25_c15779455d739e2e43970b9946fae5ae.jpeg",
+            "group": "legs"
+        },
+        {
+            "id": 10,
+            "name": "Calça Skinny Xadrez",
+            "size": "P",
+            "price": 35.00,
+            "image": "https://cdn.awsli.com.br/600x1000/296/296160/produto/183407883/bac581b6a6.jpg",
+            "group": "legs"  
+        },
+        {
+            "id": 11,
+            "name": "Calça Skinny Feminina",
+            "size": "M",
+            "price": 60.00,
+            "image": "https://estilodeep.com.br/pub/media/catalog/product/cache/f8397f80718638fe65d2a3885824f088/c/a/calc_a-carrot-com-zi_per-roxo.png",
+            "group": "legs"
+        },
+        {
+            "id": 12,
+            "name": "Calça Moletom Feminina",
+            "size": "P",
+            "price": 40.00,
+            "image": "https://img.ltwebstatic.com/images3_pi/2021/01/18/16109412125c5537c9f8c0fca4f115efc3114adeab.webp",
+            "group": "legs"
+        },
+        {
+            "id": 13,
+            "name": "Tênis Evoltenn",
+            "size": "38",
+            "price": 150.00,
+            "image": "https://static.dafiti.com.br/p/Evoltenn-T%C3%AAnis-Masculino-Evoltenn-Easy-Style-Preto-Amarelo-1382-3414617-1-zoom.jpg",
+            "group": "shoes"
+        },
+        {
+            "id": 14,
+            "name": "Tênis Redikal",
+            "size": "40",
+            "price": 120.00,
+            "image": "https://lojashoebiz.vteximg.com.br/arquivos/ids/355092-280-280/0007830220B-REDIKAL-RKT445-TNS-CASUAL-MASC--1-.jpg?v=637838148873800000",
+            "group": "shoes"
+        },
+        {
+            "id": 15,
+            "name": "Tênis Vans",
+            "size": 35,
+            "price": 200.00,
+            "image": "https://chilangoskate.com/tienda/7598-large_default/tenis-vans-kids-old-skool-black-white.jpg",
+            "group": "shoes"
+        },
+        {
+            "id": 16,
+            "name": "Tênis Nike Jordan",
+            "size": 38,
+            "price": 600.00,
+            "image": "https://cactusteals.com.br/wp-content/uploads/2022/06/Jordan-1-Retro-High-22Lucky-Green22-W2.jpg",
+            "group": "shoes"
+        }, 
+        {
+            "id": 17,
+            "name": "Tênis Adidas Yeezy",
+            "size": 36,
+            "price": 450.00,
+            "image": "https://www.leveshoes.com.br/wp-content/uploads/2018/09/T%C3%AAnis-Masculino-adidas-Yeezy-Boost-350-V2-4.jpg",
+            "group": "shoes"
+        },
+        {
+            "id": 18,
+            "name": "Tênis Nike Air Max",
+            "size": 40,
+            "price": 500.00,
+            "image": "https://static.zattini.com.br/produtos/tenis-nike-air-max-excee-masculino/28/HZM-3176-028/HZM-3176-028_zoom1.jpg?ts=1581423704",
+            "group": "shoes"
+        }
+
+    ],
+
+    "usuarios": [
+        {
+            "id": 1,
+            "nome": "Lucas",
+            "sobrenome": "Gomes",
+            "cpf": "482.573.578-98",
+            "email": "lucasd476@gmail.com",
+            "sexo": "Masculino",
+            "dataCad": "14/03/2023"
+        }
+    ]
+}

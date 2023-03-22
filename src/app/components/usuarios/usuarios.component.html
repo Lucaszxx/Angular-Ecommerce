@@ -1,0 +1,25 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+
+<div class="box" *ngFor="let usuario of usuarios">
+    <h2>Meus Dados</h2>
+    <div class="dados">
+        <div class="dadosDiv">
+            <p>Nome</p>
+            <input type="text" value="{{usuario.nome}}">
+            <p>Sobrenome</p>
+            <input type="text" value="{{usuario.sobrenome}}">
+            <p>CPF</p>
+            <input type="text" value="{{usuario.cpf}}">
+        </div>
+        <div class="dadosDiv">
+            <p>Email</p>
+            <input type="text" value="{{usuario.email}}">
+            <p>Sexo</p>
+            <input type="text" value="{{usuario.sexo}}">
+            <p>Data de cadastro</p>
+            <input type="text" value="{{ usuario.dataCad }}">
+        </div>
+    </div>
+</div>

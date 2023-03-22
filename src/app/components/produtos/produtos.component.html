@@ -1,0 +1,26 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500;700&display=swap" rel="stylesheet">
+
+
+<!-- Div que engloba todos os produtos -->
+<div class="produtos">
+    <!-- Caixa de pesquisa -->
+    <div class="boxSearch">
+        <form>
+            <input id="pesquisa" type="text" placeholder="Procurando por algo? 🔍" [(ngModel)]="searchTerm" name="pesquisa" autocomplete="off">
+        </form>
+    </div>
+    <!-- Box com todas as roupas -->
+    <div class="box-roupas"> 
+        <div *ngFor="let produto of todosProdutos | filter: searchTerm">
+            <div class="card">
+                <img class="imagemRoupa" src="{{produto.image}}" alt="">
+                <p>{{produto.name}}</p>
+                <p>Tamanho: {{produto.size}}</p>
+                <p>R${{produto.price}}</p>
+                <button class="botaoComprar"(click)="adicionarAoCarrinho(produto)">Adicionar ao Carrinho</button>
+            </div>
+        </div>
+    </div>
+</div>
