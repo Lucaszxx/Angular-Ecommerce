@@ -1,8 +1,9 @@
-import { Component, Output } from '@angular/core';
+import { Component, NgModule} from '@angular/core';
 
 import { ProdutoService } from 'src/app/services/produto.service';
 import { CarrinhoService } from 'src/app/services/carrinho.service';
 import { Produtos } from 'src/app/classes/produtos';
+import Swal from 'sweetalert2';
 
 @Component({
   selector: 'app-produtos',
@@ -41,6 +42,13 @@ export class ProdutosComponent {
   adicionarAoCarrinho(produtos: Produtos) {
       this._carrinhoService.adicionarAoCarrinho(produtos);
       console.log(produtos);
+  }
+
+  successNotification() {
+    Swal.fire({
+      icon: 'success',
+      title: 'Produto adicionado'
+    })
   }
 }
 

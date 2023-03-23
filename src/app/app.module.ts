@@ -11,6 +11,7 @@ import { HttpClientModule } from '@angular/common/http';
 import { UsuariosComponent } from './components/usuarios/usuarios.component';
 import { FormsModule } from '@angular/forms';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
+import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 import { CarrinhoComponent } from './components/carrinho/carrinho.component';
 
 @NgModule({
@@ -28,6 +29,7 @@ import { CarrinhoComponent } from './components/carrinho/carrinho.component';
     HttpClientModule,
     FormsModule,
     Ng2SearchPipeModule,
+    SweetAlert2Module
   ],
   providers: [],
   bootstrap: [AppComponent]

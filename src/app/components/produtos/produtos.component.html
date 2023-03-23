@@ -19,7 +19,7 @@
                 <p>{{produto.name}}</p>
                 <p>Tamanho: {{produto.size}}</p>
                 <p>R${{produto.price}}</p>
-                <button class="botaoComprar"(click)="adicionarAoCarrinho(produto)">Adicionar ao Carrinho</button>
+                <button class="botaoComprar" (click)="successNotification()" (click)="adicionarAoCarrinho(produto)">Adicionar ao Carrinho</button>
             </div>
         </div>
     </div>
