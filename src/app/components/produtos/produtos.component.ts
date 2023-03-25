@@ -47,7 +47,9 @@ export class ProdutosComponent {
   successNotification() {
     Swal.fire({
       icon: 'success',
-      title: 'Produto adicionado'
+      title: 'Produto adicionado',
+      timer: 1500,
+      showConfirmButton: false
     })
   }
 }

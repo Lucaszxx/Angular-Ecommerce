@@ -4,3 +4,8 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+/* Font do PopUp de aviso de produto adicionado ao carrinho */
+.swal2-title {
+    font-family:'Montserrat', sans-serif;
+  }

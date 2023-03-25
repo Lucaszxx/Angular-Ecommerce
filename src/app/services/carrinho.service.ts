@@ -17,11 +17,6 @@ export class CarrinhoService {
       contador) => this.itens.indexOf(produto) === contador);
   }
 
-  limparCarrinho() {
-    this.itens = [];
-    return this.itens;
-  }
-
   constructor() { }
 
 }
