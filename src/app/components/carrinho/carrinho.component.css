@@ -84,17 +84,37 @@ h1 {
     width: 40px;
 }
 
-.adicionarProd {
-    background-color: green;
-    width: 20px;
-}
-
 .tirarProd {
     background-color: red;
     width: 20px;
 }
 
-#quantidade {
-    margin-top: -2px;
+#divQuantidade {
+    margin-top: 0.625rem;
+    display: flex;
+    flex-direction: row;
+    width: fit-content;
+    height: fit-content;
+    padding-left: 5rem;
+    column-gap: 0.625rem;
 }
 
+.botaoQuantidade { 
+    background-color: blue;
+    border: none;
+    width: 1.875rem;
+    height: 1.5625rem;
+    color: white;
+    font-weight: bold;
+    border-radius: 3px;
+}
+
+.botaoQuantidade:hover {
+    cursor: pointer;
+    transition: 1s;
+    transform: scale(1.1);
+}
+
+#divQuantidade > p {
+    margin-top: 0;
+}

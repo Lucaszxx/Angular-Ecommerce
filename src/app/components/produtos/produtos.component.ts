@@ -33,6 +33,7 @@ export class ProdutosComponent {
             item.price,
             item.image,
             item.group,
+            item.quanty
           )
         })
       }

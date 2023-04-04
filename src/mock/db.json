@@ -6,7 +6,8 @@
             "size": "M",
             "price": 14.95, 
             "image": "https://a-static.mlcdn.com.br/1500x1500/camisas-kit-c-5-camisetas-camisas-masculinas-atacado-tlt/tltmodas/9912234751/325b394242a74172aa2bbf439319fa6b.jpeg",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 2,
@@ -14,7 +15,8 @@
             "size": "P",
             "price": 18.95,
             "image": "https://queissocamarada.com/loja/wp-content/uploads/2021/10/camiseta-de-esquerda-fantasma-comunista-rosa.jpg",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 3,
@@ -22,7 +24,8 @@
             "size": "G",
             "price": 10.00,
             "image": "https://static3.tcdn.com.br/img/img_prod/906555/camiseta_hora_de_aventura_camiseta_favorita_princesa_jujuba_449_1_2f5f657678185c5954e759e40360b820.jpg",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 4,
@@ -30,7 +33,8 @@
             "size": "M",
             "price": 25.00,
             "image": "https://img.elo7.com.br/product/zoom/37B2AD1/camisa-camiseta-f1-redbull-plus-size-redbull.jpg",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 5,
@@ -38,7 +42,8 @@
             "size": "P",
             "price": 40.00,
             "image": "https://cdn.shopify.com/s/files/1/0013/0698/4500/products/CAMISETA-FUELTECH-F355TURBO-ANDERSON-DICK_1024x1024.jpg?v=1667506475",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 6,
@@ -46,7 +51,8 @@
             "size": "M",
             "price": 35.00,
             "image": "https://img.ltwebstatic.com/images2_pi/2019/08/12/15656037222215085874_thumbnail_900x1199.webp",
-            "group": "tshirts"
+            "group": "tshirts",
+            "quanty": 1
         },
         {
             "id": 7,
@@ -54,7 +60,8 @@
             "size": "G",
             "price": 50.00,
             "image": "https://img.ltwebstatic.com/images3_pi/2022/05/22/1653191780475c093af5940753b096412cdc7f53c3_thumbnail_900x.webp",
-            "group": "legs"
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 8,
@@ -62,7 +69,8 @@
             "size": "M",
             "price": 40.00,
             "image": "https://damyller.vteximg.com.br/arquivos/ids/589479-980-1470/Calca-Jeans-Slouchy-Cropped-Cintura-Alta-Detalhe-Still--.jpg?v=637430211171230000",
-            "group": "legs"
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 9,
@@ -70,7 +78,8 @@
             "size": "M",
             "price": 80.00,
             "image": "https://images.tcdn.com.br/img/img_prod/763583/calca_jogger_feminina_9391_25_c15779455d739e2e43970b9946fae5ae.jpeg",
-            "group": "legs"
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 10,
@@ -78,7 +87,8 @@
             "size": "P",
             "price": 35.00,
             "image": "https://cdn.awsli.com.br/600x1000/296/296160/produto/183407883/bac581b6a6.jpg",
-            "group": "legs"  
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 11,
@@ -86,7 +96,8 @@
             "size": "M",
             "price": 60.00,
             "image": "https://estilodeep.com.br/pub/media/catalog/product/cache/f8397f80718638fe65d2a3885824f088/c/a/calc_a-carrot-com-zi_per-roxo.png",
-            "group": "legs"
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 12,
@@ -94,7 +105,8 @@
             "size": "P",
             "price": 40.00,
             "image": "https://img.ltwebstatic.com/images3_pi/2021/01/18/16109412125c5537c9f8c0fca4f115efc3114adeab.webp",
-            "group": "legs"
+            "group": "legs",
+            "quanty": 1
         },
         {
             "id": 13,
@@ -102,7 +114,8 @@
             "size": "38",
             "price": 150.00,
             "image": "https://static.dafiti.com.br/p/Evoltenn-T%C3%AAnis-Masculino-Evoltenn-Easy-Style-Preto-Amarelo-1382-3414617-1-zoom.jpg",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         },
         {
             "id": 14,
@@ -110,7 +123,8 @@
             "size": "40",
             "price": 120.00,
             "image": "https://lojashoebiz.vteximg.com.br/arquivos/ids/355092-280-280/0007830220B-REDIKAL-RKT445-TNS-CASUAL-MASC--1-.jpg?v=637838148873800000",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         },
         {
             "id": 15,
@@ -118,7 +132,8 @@
             "size": 35,
             "price": 200.00,
             "image": "https://chilangoskate.com/tienda/7598-large_default/tenis-vans-kids-old-skool-black-white.jpg",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         },
         {
             "id": 16,
@@ -126,7 +141,8 @@
             "size": 38,
             "price": 600.00,
             "image": "https://cactusteals.com.br/wp-content/uploads/2022/06/Jordan-1-Retro-High-22Lucky-Green22-W2.jpg",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         }, 
         {
             "id": 17,
@@ -134,7 +150,8 @@
             "size": 36,
             "price": 450.00,
             "image": "https://www.leveshoes.com.br/wp-content/uploads/2018/09/T%C3%AAnis-Masculino-adidas-Yeezy-Boost-350-V2-4.jpg",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         },
         {
             "id": 18,
@@ -142,7 +159,8 @@
             "size": 40,
             "price": 500.00,
             "image": "https://static.zattini.com.br/produtos/tenis-nike-air-max-excee-masculino/28/HZM-3176-028/HZM-3176-028_zoom1.jpg?ts=1581423704",
-            "group": "shoes"
+            "group": "shoes",
+            "quanty": 1
         }
 
     ],
