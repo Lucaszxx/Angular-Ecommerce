@@ -12,6 +12,7 @@ import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 import { CarrinhoComponent } from './components/carrinho/carrinho.component';
 import { MinhaContaComponent } from './components/minha-conta/minha-conta.component';
 import { CadastroComponent } from './components/cadastro/cadastro.component';
+import { LoginComponent } from './components/login/login.component';
 
 @NgModule({
   declarations: [
@@ -20,6 +21,7 @@ import { CadastroComponent } from './components/cadastro/cadastro.component';
     CarrinhoComponent,
     MinhaContaComponent,
     CadastroComponent,
+    LoginComponent,
   ],
   imports: [
     BrowserModule,

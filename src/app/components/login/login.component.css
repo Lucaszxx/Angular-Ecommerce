@@ -1,0 +1,69 @@
+body {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+#loginBox {
+    background-color: rgba(211, 211, 211, 0.196);
+    text-align: center;
+    margin-left: 30em;
+    margin-right: 30em;
+    margin-top: 5em;
+    height: 35em;
+}
+
+#loginBox > h1 {
+    padding-top: 2em;
+    color: blue;
+    font-family:'Poppins', sans-serif; 
+    font-size: 30px;
+}
+
+#loginFields {
+    margin-top: 1em;
+}
+
+#loginFields h3 {
+    font-size: 20px;
+    font-family: 'Poppins', sans-serif; 
+    padding-top: 2em;
+    color: rgb(85, 85, 85);
+}
+
+#loginFields input {
+    font-family: 'Poppins', sans-serif;
+    padding-top: 0.5em;
+    border-bottom: solid blue 1px;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+    font-size: 20px;   
+    text-align: center;
+}
+
+#loginFields textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+}
+
+#loginFields > button {
+    margin-top: 5em;
+    width: 35%;
+    height: 3em;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif; 
+    color: blue;
+    background-color: white;
+    border: solid blue 1px;
+}
+
+#loginFields > button:hover {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    transition: 1s;
+}
+
+
