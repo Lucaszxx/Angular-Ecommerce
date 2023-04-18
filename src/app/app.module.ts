@@ -3,25 +3,23 @@ import { BrowserModule } from '@angular/platform-browser';
 import { AppRoutingModule } from './app-routing.module';
 
 import { AppComponent } from './app.component';
-import { LoginComponent } from './components/login/login.component';
-import { RegisterComponent } from './components/register/register.component';
 import { ProdutosComponent } from './components/produtos/produtos.component';
 
 import { HttpClientModule } from '@angular/common/http';
-import { UsuariosComponent } from './components/usuarios/usuarios.component';
 import { FormsModule } from '@angular/forms';
 import { Ng2SearchPipeModule } from 'ng2-search-filter';
 import { SweetAlert2Module } from '@sweetalert2/ngx-sweetalert2';
 import { CarrinhoComponent } from './components/carrinho/carrinho.component';
+import { MinhaContaComponent } from './components/minha-conta/minha-conta.component';
+import { CadastroComponent } from './components/cadastro/cadastro.component';
 
 @NgModule({
   declarations: [
     AppComponent,
-    LoginComponent,
-    RegisterComponent,
     ProdutosComponent,
-    UsuariosComponent,
     CarrinhoComponent,
+    MinhaContaComponent,
+    CadastroComponent,
   ],
   imports: [
     BrowserModule,

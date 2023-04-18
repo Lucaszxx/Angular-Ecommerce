@@ -1,0 +1,65 @@
+* {
+    font-family: 'Poppins', sans-serif; 
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#geral > h1 {
+    text-align: center;
+    margin-top: 0.5em;
+}
+
+#cadSection {
+    margin-top: 1em;
+    background: none;
+    height: fit-content;
+    width: 80vw;
+    margin-left: 10rem;
+    margin-right: 10rem;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+
+#geral table {
+    width: 100%;
+    text-align: center;
+    background-color: rgb(245, 245, 245);
+}
+
+#cadSection th {
+    padding-top: 3rem;
+    padding-bottom: 2.5rem;
+    padding-left: 5em;
+}
+
+#cadSection input {
+    background: none;
+    border: none;
+    font-size: 20px;
+    text-align: center;
+    border-bottom: solid grey 1px;
+}
+
+#cadSection textarea:focus, input:focus {
+    box-shadow: 0 0 0 0;
+    outline: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+#cadSection button {
+    margin-top: 1px;
+    width: 15%;
+    height: 3em;
+    border-radius: 5px;
+    font-family: 'Poppins', sans-serif; 
+    color: blue;
+    border: solid blue 1px;
+}
+
+#cadSection button:hover {
+    cursor: pointer;
+    background-color: blue;
+    color: white;
+    transition: 1.4s;
+}

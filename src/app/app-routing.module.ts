@@ -1,18 +1,16 @@
 import { NgModule } from "@angular/core";
 import { RouterModule, Routes } from "@angular/router";
 
-import { LoginComponent } from "./components/login/login.component";
 import { ProdutosComponent } from "./components/produtos/produtos.component";
-import { RegisterComponent } from "./components/register/register.component";
-import { UsuariosComponent } from "./components/usuarios/usuarios.component";
 import { CarrinhoComponent } from "./components/carrinho/carrinho.component";
+import { MinhaContaComponent } from "./components/minha-conta/minha-conta.component";
+import { CadastroComponent } from "./components/cadastro/cadastro.component";
 
 const routes: Routes = [
-    { path: 'login', component: LoginComponent },
-    { path: 'register', component: RegisterComponent },
-    { path: 'minhaConta', component:UsuariosComponent},
     { path: '', component: ProdutosComponent},
-    { path: 'carrinho', component: CarrinhoComponent}
+    { path: 'carrinho', component: CarrinhoComponent},
+    { path: 'minhaConta', component: MinhaContaComponent},
+    {path: 'cadastro', component: CadastroComponent}
 ];
 
 @NgModule({
