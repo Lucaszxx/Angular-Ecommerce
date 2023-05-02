@@ -14,7 +14,7 @@
             "name": "Camiseta Fantasma Rosa",
             "size": "P",
             "price": 18.95,
-            "image": "https://queissocamarada.com/loja/wp-content/uploads/2021/10/camiseta-de-esquerda-fantasma-comunista-rosa.jpg",
+            "image": "https://http2.mlstatic.com/D_NQ_NP_762573-MLB53807754765_022023-O.jpg",
             "group": "tshirts",
             "quanty": 1
         },
@@ -23,7 +23,7 @@
             "name": "Camiseta Hora de Aventura",
             "size": "G",
             "price": 10.00,
-            "image": "https://static3.tcdn.com.br/img/img_prod/906555/camiseta_hora_de_aventura_camiseta_favorita_princesa_jujuba_449_1_2f5f657678185c5954e759e40360b820.jpg",
+            "image": "https://m.media-amazon.com/images/I/61Q1QEADamL._AC_SX385_.jpg",
             "group": "tshirts",
             "quanty": 1
         },
@@ -50,16 +50,16 @@
             "name": "Camiseta Vinho",
             "size": "M",
             "price": 35.00,
-            "image": "https://img.ltwebstatic.com/images2_pi/2019/08/12/15656037222215085874_thumbnail_900x1199.webp",
+            "image": "https://d2r9epyceweg5n.cloudfront.net/stores/001/267/457/products/img-43351-60a29e3e8de904730c16102970679259-1024-1024.jpg",
             "group": "tshirts",
             "quanty": 1
         },
         {
             "id": 7,
-            "name": "Calça Cargo",
+            "name": "Calça Cargo Bege",
             "size": "G",
             "price": 50.00,
-            "image": "https://img.ltwebstatic.com/images3_pi/2022/05/22/1653191780475c093af5940753b096412cdc7f53c3_thumbnail_900x.webp",
+            "image": "https://images-americanas.b2w.io/produtos/6587726141/imagens/calca-feminina-wide-cargo-com-cinto/6587726141_1_large.jpg",
             "group": "legs",
             "quanty": 1
         },
@@ -68,7 +68,7 @@
             "name": "Calça Jeans",
             "size": "M",
             "price": 40.00,
-            "image": "https://damyller.vteximg.com.br/arquivos/ids/589479-980-1470/Calca-Jeans-Slouchy-Cropped-Cintura-Alta-Detalhe-Still--.jpg?v=637430211171230000",
+            "image": "https://a-static.mlcdn.com.br/800x560/calca-jeans-masculina-di-nuevo-azul-escura-manchada/dinuevo/4871-48893/d18f0df7232b551b0c8a33466872c277.jpeg",
             "group": "legs",
             "quanty": 1
         },
@@ -77,7 +77,7 @@
             "name": "Calça Jogger Feminina",
             "size": "M",
             "price": 80.00,
-            "image": "https://images.tcdn.com.br/img/img_prod/763583/calca_jogger_feminina_9391_25_c15779455d739e2e43970b9946fae5ae.jpeg",
+            "image": "https://static.netshoes.com.br/produtos/calca-jogger-sarja-feminina-branca-ref:3549fvn/14/I5Y-0023-014/I5Y-0023-014_zoom6.jpg?ts=1666878802",
             "group": "legs",
             "quanty": 1
         },
@@ -86,7 +86,7 @@
             "name": "Calça Skinny Xadrez",
             "size": "P",
             "price": 35.00,
-            "image": "https://cdn.awsli.com.br/600x1000/296/296160/produto/183407883/bac581b6a6.jpg",
+            "image": "https://static.netshoes.com.br/produtos/calca-alfaiataria-super-skinny-jacquard-xadrez-masculina/10/7PF-0107-010/7PF-0107-010_zoom1.jpg?ts=1670851624&ims=420x",
             "group": "legs",
             "quanty": 1
         },
@@ -95,7 +95,7 @@
             "name": "Calça Skinny Feminina",
             "size": "M",
             "price": 60.00,
-            "image": "https://estilodeep.com.br/pub/media/catalog/product/cache/f8397f80718638fe65d2a3885824f088/c/a/calc_a-carrot-com-zi_per-roxo.png",
+            "image": "https://static.zattini.com.br/produtos/calca-sarja-feminina/14/DMH-0021-014/DMH-0021-014_zoom1.jpg?ts=1675906580",
             "group": "legs",
             "quanty": 1
         },
@@ -104,7 +104,7 @@
             "name": "Calça Moletom Feminina",
             "size": "P",
             "price": 40.00,
-            "image": "https://img.ltwebstatic.com/images3_pi/2021/01/18/16109412125c5537c9f8c0fca4f115efc3114adeab.webp",
+            "image": "https://images-americanas.b2w.io/produtos/5325403377/imagens/calca-jogger-calca-moletom-feminino-flanelada-blogueira-estilosa-para-inverno-bolso-lateral/5325403473_3_large.jpg",
             "group": "legs",
             "quanty": 1
         },
@@ -131,7 +131,7 @@
             "name": "Tênis Vans",
             "size": 35,
             "price": 200.00,
-            "image": "https://chilangoskate.com/tienda/7598-large_default/tenis-vans-kids-old-skool-black-white.jpg",
+            "image": "https://cdn.bnws3.com.br/b2online.com.br/image/cache/data/produtos/vans/masculino/tenis-vans-ward-canvas-preto---preto-3715-21-12-30-03-1200x1200.jpg",
             "group": "shoes",
             "quanty": 1
         },
