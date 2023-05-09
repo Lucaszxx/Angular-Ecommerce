@@ -18,7 +18,7 @@
                 <img class="imagemRoupa" src="{{produto.image}}" alt="">
                 <p>{{produto.name}}</p>
                 <p>Tamanho: {{produto.size}}</p>
-                <p>R${{produto.price}}</p>
+                <p>R{{produto.price | currency}}</p>
                 <button class="botaoComprar" (click)="successNotification()" (click)="adicionarAoCarrinho(produto)">Adicionar ao Carrinho</button>
             </div>
         </div>
