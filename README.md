@@ -1,5 +1,5 @@
 <h1 align="center">🏪 E-Commerce com Angular 🏪</h1>
-<p>💻Esse é o meu primeiro grande projeto utilizando o Angular. Fiz também uso do Json-Server para mockar os dados e simular o cunsumo de uma API.</p>
+<span>💻Esse é o meu primeiro grande projeto utilizando o Angular. Fiz também uso do Json-Server para mockar os dados e simular o cunsumo de uma API.</span>
 
 
 ## 📒Descrição do projeto
