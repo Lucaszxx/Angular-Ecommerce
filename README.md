@@ -3,4 +3,4 @@
 
 <p>- O projeto é um E-Commerce de uma loja ficticia que visa aplicar tudo o que aprendi até o momento com Angular.</p>
 
-<p>- Criei as principais funções de um E-Commerce, como adicionar produto, carrinho de compras, remover produto, aumentar quantidade,  e um CRUD (não funcional, pois não levei em consideração fazer um sistema de login e cadastro nesse projeto, pois o foco era aplicar conceitos básicos do Angular).</p>
+<p>- Criei as principais funções de um E-Commerce, como adicionar produtos ao carrinho de compras, remover produto, aumentar quantidade,  e um CRUD (não funcional, pois não levei em consideração fazer um sistema de login e cadastro nesse projeto, pois o foco era aplicar conceitos básicos do Angular).</p>
